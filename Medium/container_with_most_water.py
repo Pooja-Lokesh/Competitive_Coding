@@ -1,4 +1,4 @@
-# Trapping rain water problem.
+# This is different from the trapping_rain_water problem in hard level section.
 
 class Solution:
     def maxArea(self, height: List[int]) -> int:
